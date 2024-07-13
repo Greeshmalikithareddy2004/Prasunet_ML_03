@@ -110,13 +110,6 @@ Classification Report:
 Confusion Matrix:
 image
 
-Installation
-To set up the project on your local machine:
-
-Clone the repository:
-
-git clone https://github.com/jayesh-parmarr/SVM-Dogs-vs-Cats-Classification.git
-cd SVM-Dogs-vs-Cats-Classification
 Install the required packages:
 
 pip install -r requirements.txt
